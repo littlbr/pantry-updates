@@ -6,6 +6,14 @@
     <description>Mises à jour de Pantry</description>
     <language>fr</language>
     <item>
+      <title>Version 0.11.0</title>
+      <pubDate>Fri, 18 Sep 2026 23:38:09 +0000</pubDate>
+      <sparkle:version>14</sparkle:version>
+      <sparkle:shortVersionString>0.11.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/littlbr/pantry-updates/releases/download/v0.11.0/Pantry-0.11.0.dmg" sparkle:edSignature="aoFBtDg6fGvFA4PjZy8Ut11CTKyld6v15oLFLnCPOAgbhprDoNjU5HB6fbjPkwLHgvU15KNCLRLiSTbOEcGxCA==" length="4260578" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.10.0</title>
       <pubDate>Fri, 18 Sep 2026 21:41:17 +0000</pubDate>
       <sparkle:version>12</sparkle:version>
