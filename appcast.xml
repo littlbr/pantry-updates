@@ -6,6 +6,15 @@
     <description>Mises à jour de Pantry</description>
     <language>fr</language>
     <item>
+      <title>Version 0.11.1</title>
+      <description>&lt;html&gt;&lt;body style="font: -apple-system-body; margin: 0"&gt;&lt;ul style="padding-left: 1.2em"&gt;&lt;li&gt;Les barres de progression prennent la couleur du palier atteint, comme le pourcentage : elles restaient grises alors que le chiffre passait en orange puis en rouge.&lt;/li&gt;&lt;li&gt;Les nouveautés de chaque version s&amp;#x27;affichent désormais avant la mise à jour.&lt;/li&gt;&lt;/ul&gt;&lt;/body&gt;&lt;/html&gt;</description>
+      <pubDate>Fri, 18 Sep 2026 23:42:51 +0000</pubDate>
+      <sparkle:version>15</sparkle:version>
+      <sparkle:shortVersionString>0.11.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/littlbr/pantry-updates/releases/download/v0.11.1/Pantry-0.11.1.dmg" sparkle:edSignature="TiiUEbzVFCDRp5AZ+yG1lfa7t9MpY/DERpKx2xPkn+tC5b0PoydVOHPBxfxcGic1iuhE4pbwHFO01J6NPyPoAg==" length="4261392" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.11.0</title>
       <pubDate>Fri, 18 Sep 2026 23:38:09 +0000</pubDate>
       <sparkle:version>14</sparkle:version>
