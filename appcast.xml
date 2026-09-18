@@ -1,9 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel>
     <title>Pantry</title>
     <link>https://littlbr.github.io/pantry-updates/appcast.xml</link>
     <description>Mises à jour de Pantry</description>
     <language>fr</language>
+    <item>
+      <title>Version 0.1.0</title>
+      <pubDate>Fri, 18 Sep 2026 11:57:48 +0000</pubDate>
+      <sparkle:version>1</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/littlbr/pantry-updates/releases/download/v0.1.0/Pantry-0.1.0.dmg" sparkle:edSignature="bnky3YPCnhiI9ZVdNYNyxbGzZ9oTbwlG4KOii0B28TRJC3xdF+py58pCQgAf9Vz6v/zNnCjQeYfS6I3g0xgfCw==" length="1905771" type="application/octet-stream" />
+    </item>
   </channel>
 </rss>
