@@ -6,6 +6,15 @@
     <description>Mises à jour de Pantry</description>
     <language>fr</language>
     <item>
+      <title>Version 0.12.0</title>
+      <description>&lt;html&gt;&lt;body style="font: -apple-system-body; margin: 0"&gt;&lt;ul style="padding-left: 1.2em"&gt;&lt;li&gt;&lt;strong&gt;Les courbes ne s&amp;#x27;interrompent plus.&lt;/strong&gt; Un trou de collecte — Mac éteint ou en veille — se lit désormais comme un palier au dernier niveau connu, au lieu de couper le tracé : rien ne dit que la consommation a progressé pendant la coupure, tout dit qu&amp;#x27;elle se tenait là.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Chute franche à chaque réinitialisation&lt;/strong&gt; : la courbe tombe à zéro à l&amp;#x27;échéance de la fenêtre, puis repart. La session retombe toutes les cinq heures, la semaine tous les sept jours.&lt;/li&gt;&lt;li&gt;L&amp;#x27;échéance annoncée par l&amp;#x27;API est conservée avec chaque relevé : la chute est datée à la seconde, même si personne n&amp;#x27;était là pour la voir.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Pilule : fond vert sous les seuils d&amp;#x27;alerte&lt;/strong&gt;, en option. Le gris reste le défaut — un item coloré en permanence attire l&amp;#x27;œil en permanence.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Plus de clignotement au rafraîchissement.&lt;/strong&gt; Les chiffres restaient affichés le temps d&amp;#x27;un échec réseau, mais pas le temps d&amp;#x27;un relevé réussi : ils disparaissaient donc toutes les deux minutes, et à chaque ouverture du panneau, le temps d&amp;#x27;un aller-retour. La dernière valeur connue tient désormais jusqu&amp;#x27;à l&amp;#x27;arrivée de la suivante.&lt;/li&gt;&lt;li&gt;Dans le panneau, la barre rejoint sa nouvelle longueur et les chiffres roulent vers leur nouvelle valeur, au lieu d&amp;#x27;y sauter.&lt;/li&gt;&lt;/ul&gt;&lt;/body&gt;&lt;/html&gt;</description>
+      <pubDate>Tue, 22 Sep 2026 14:28:15 +0000</pubDate>
+      <sparkle:version>17</sparkle:version>
+      <sparkle:shortVersionString>0.12.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/littlbr/pantry-updates/releases/download/v0.12.0/Pantry-0.12.0.dmg" sparkle:edSignature="TN8yBDH1v5uDUWJt+hn7xiBDDqrgMBYVLQKInq6oRCbfvOaR7Rbwc/f7nDxjohydwD3IYXJonrHtv41ff+NODQ==" length="4281679" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.11.2</title>
       <description>&lt;html&gt;&lt;body style="font: -apple-system-body; margin: 0"&gt;&lt;ul style="padding-left: 1.2em"&gt;&lt;li&gt;Les réglages s&amp;#x27;ouvrent sur l&amp;#x27;onglet Général.&lt;/li&gt;&lt;li&gt;Dans le choix du temps avant réinitialisation, la date et l&amp;#x27;heure — qui est le réglage par défaut — apparaît en premier.&lt;/li&gt;&lt;/ul&gt;&lt;/body&gt;&lt;/html&gt;</description>
       <pubDate>Fri, 18 Sep 2026 23:49:57 +0000</pubDate>
