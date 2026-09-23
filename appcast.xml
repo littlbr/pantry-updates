@@ -6,6 +6,15 @@
     <description>Mises à jour de Pantry</description>
     <language>fr</language>
     <item>
+      <title>Version 0.13.3</title>
+      <description>&lt;html&gt;&lt;body style="font: -apple-system-body; margin: 0"&gt;&lt;ul style="padding-left: 1.2em"&gt;&lt;li&gt;Le journal des relevés, ajouté pour diagnostiquer la fréquence de rafraîchissement, est retiré : le problème est résolu.&lt;/li&gt;&lt;/ul&gt;&lt;/body&gt;&lt;/html&gt;</description>
+      <pubDate>Wed, 23 Sep 2026 13:48:12 +0000</pubDate>
+      <sparkle:version>21</sparkle:version>
+      <sparkle:shortVersionString>0.13.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/littlbr/pantry-updates/releases/download/v0.13.3/Pantry-0.13.3.dmg" sparkle:edSignature="zxBs7kQIAiJnD395em+I3VXiRZNG+89dh4h/8aLflEk7FfTY7nTCYatO8dlWgnxi8ME2ICi9D0DSz7KWZI9LAA==" length="4323494" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.13.2</title>
       <description>&lt;html&gt;&lt;body style="font: -apple-system-body; margin: 0"&gt;&lt;ul style="padding-left: 1.2em"&gt;&lt;li&gt;&lt;strong&gt;La fréquence de rafraîchissement est enfin respectée.&lt;/strong&gt; Pantry vous croyait absent en permanence et ne relevait la consommation que toutes les dix minutes, quel que soit le réglage : seule l&amp;#x27;ouverture du panneau forçait un relevé, d&amp;#x27;où des bonds de plusieurs points au clic. L&amp;#x27;absence n&amp;#x27;est plus retenue qu&amp;#x27;après dix minutes sans toucher clavier ni souris.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Journal des relevés&lt;/strong&gt; : chaque relevé, son résultat et la raison de l&amp;#x27;échéance suivante sont consignés dans `~/Library/Logs/Pantry/refresh.log`. Un bouton des réglages, section Rafraîchissement, l&amp;#x27;affiche dans le Finder.&lt;/li&gt;&lt;/ul&gt;&lt;/body&gt;&lt;/html&gt;</description>
       <pubDate>Wed, 23 Sep 2026 12:45:00 +0000</pubDate>
