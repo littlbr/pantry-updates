@@ -6,6 +6,15 @@
     <description>Mises à jour de Pantry</description>
     <language>fr</language>
     <item>
+      <title>Version 0.13.4</title>
+      <description>&lt;html&gt;&lt;body style="font: -apple-system-body; margin: 0"&gt;&lt;ul style="padding-left: 1.2em"&gt;&lt;li&gt;&lt;strong&gt;La suppression d&amp;#x27;un compte fonctionne à nouveau&lt;/strong&gt; : la confirmation perdait le compte visé et restait sans effet.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;L&amp;#x27;onglet Comptes est revu.&lt;/strong&gt; Chaque compte porte un bouton « Renommer » et une corbeille rouge ; le pourcentage n&amp;#x27;y figure plus. La barre + / − laisse place à un bouton « Ajouter un autre compte » en toutes lettres.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Une connexion en cours se voit&lt;/strong&gt; : un encart explique qu&amp;#x27;elle attend votre réponse dans le navigateur, avec un bouton « Annuler la connexion ».&lt;/li&gt;&lt;li&gt;Les réglages s&amp;#x27;ouvrent toujours sur l&amp;#x27;onglet Général, tout en haut.&lt;/li&gt;&lt;li&gt;Les options sans effet pour l&amp;#x27;affichage choisi — fond vert hors pilule, Fable avec les anneaux seuls — apparaissent désormais grisées.&lt;/li&gt;&lt;/ul&gt;&lt;/body&gt;&lt;/html&gt;</description>
+      <pubDate>Thu, 24 Sep 2026 09:40:52 +0000</pubDate>
+      <sparkle:version>22</sparkle:version>
+      <sparkle:shortVersionString>0.13.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/littlbr/pantry-updates/releases/download/v0.13.4/Pantry-0.13.4.dmg" sparkle:edSignature="5TcSffYrJ1trL7edzv1tzKbK3MEUXpIu/nNzOmUqy6R3DCZLUluifcXHaOZfxaDReAT4Nx/a83INdWJlbKtQAQ==" length="4335792" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.13.3</title>
       <description>&lt;html&gt;&lt;body style="font: -apple-system-body; margin: 0"&gt;&lt;ul style="padding-left: 1.2em"&gt;&lt;li&gt;Le journal des relevés, ajouté pour diagnostiquer la fréquence de rafraîchissement, est retiré : le problème est résolu.&lt;/li&gt;&lt;/ul&gt;&lt;/body&gt;&lt;/html&gt;</description>
       <pubDate>Wed, 23 Sep 2026 13:48:12 +0000</pubDate>
