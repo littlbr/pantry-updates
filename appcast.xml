@@ -6,6 +6,15 @@
     <description>Mises à jour de Pantry</description>
     <language>fr</language>
     <item>
+      <title>Version 0.13.6</title>
+      <description>&lt;html&gt;&lt;body style="font: -apple-system-body; margin: 0"&gt;&lt;ul style="padding-left: 1.2em"&gt;&lt;li&gt;&lt;strong&gt;Les comptes ne se déconnectent plus au sortir de veille.&lt;/strong&gt; Au réveil, le renouvellement de session partait souvent avant le retour du Wi-Fi, et le moindre échec réseau était pris pour une session expirée : tous les comptes réclamaient alors une reconnexion. Seul un refus explicite d&amp;#x27;Anthropic l&amp;#x27;exige désormais ; le reste se réessaie de lui-même, en gardant les derniers chiffres affichés.&lt;/li&gt;&lt;/ul&gt;&lt;/body&gt;&lt;/html&gt;</description>
+      <pubDate>Sun, 27 Sep 2026 22:56:39 +0000</pubDate>
+      <sparkle:version>24</sparkle:version>
+      <sparkle:shortVersionString>0.13.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/littlbr/pantry-updates/releases/download/v0.13.6/Pantry-0.13.6.dmg" sparkle:edSignature="L7mrFnq8mSL/eZ/LvCkaF1FZt3aWASSGvM81+fQEt3HLqdtIeU4rfgsgWfSEWiNJQVLKX20UMNRM0VL4nVhMBg==" length="4431717" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.13.5</title>
       <description>&lt;html&gt;&lt;body style="font: -apple-system-body; margin: 0"&gt;&lt;ul style="padding-left: 1.2em"&gt;&lt;li&gt;&lt;strong&gt;Une reconnexion ne peut plus rattacher un compte au mauvais compte Claude.&lt;/strong&gt; Le navigateur se connecte avec la session claude.ai ouverte, quelle qu&amp;#x27;elle soit : Pantry vérifie désormais que le compte obtenu est bien celui attendu, et refuse sinon, sans rien modifier. Ajouter un compte déjà configuré est refusé de la même façon.&lt;/li&gt;&lt;li&gt;L&amp;#x27;onglet Comptes affiche l&amp;#x27;adresse du compte Claude rattaché sous chaque nom, ainsi que les erreurs de connexion.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Les comptes se réordonnent&lt;/strong&gt; : glissez une ligne dans l&amp;#x27;onglet Comptes, ou passez par son menu contextuel (Monter / Descendre). L&amp;#x27;ordre s&amp;#x27;applique aussi au panneau.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;La jauge Fable peut être masquée du panneau&lt;/strong&gt;, depuis Réglages › Général › Affichage, pour qui n&amp;#x27;utilise pas ce modèle.&lt;/li&gt;&lt;/ul&gt;&lt;/body&gt;&lt;/html&gt;</description>
       <pubDate>Sun, 27 Sep 2026 22:41:54 +0000</pubDate>
