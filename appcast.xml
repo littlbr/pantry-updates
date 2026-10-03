@@ -6,6 +6,15 @@
     <description>Mises à jour de Pantry</description>
     <language>fr</language>
     <item>
+      <title>Version 0.14.0</title>
+      <description>&lt;html&gt;&lt;body style="font: -apple-system-body; margin: 0"&gt;&lt;ul style="padding-left: 1.2em"&gt;&lt;li&gt;&lt;strong&gt;Pantry s&amp;#x27;appelle désormais Claude Usage.&lt;/strong&gt; Rien d&amp;#x27;autre ne change : vos comptes, réglages et historique sont conservés.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Beaucoup moins de reconnexions demandées.&lt;/strong&gt; Quand Anthropic refusait un jeton avant son expiration prévue, l&amp;#x27;app concluait aussitôt à une session morte. Elle renouvelle maintenant la session et réessaie, et ne demande une reconnexion que si ce renouvellement est lui-même refusé.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Une session renouvelée n&amp;#x27;est plus perdue&lt;/strong&gt; quand le trousseau refuse momentanément de l&amp;#x27;enregistrer, au sortir de veille par exemple : elle reste en mémoire, et l&amp;#x27;enregistrement est retenté.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Une seule copie de l&amp;#x27;app peut tourner à la fois.&lt;/strong&gt; Deux copies ouvertes — l&amp;#x27;une lancée depuis le DMG, l&amp;#x27;autre depuis Applications — se disputaient la même session, et l&amp;#x27;une finissait par la faire expirer. La seconde se ferme désormais en indiquant que l&amp;#x27;app est déjà ouverte.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Signaler un problème…&lt;/strong&gt;, dans le panneau, prépare un rapport (état des comptes, journal de l&amp;#x27;app, plantages récents) à envoyer par Messages, AirDrop ou courriel. Rien ne part sans vous, et aucun jeton n&amp;#x27;y figure.&lt;/li&gt;&lt;/ul&gt;&lt;/body&gt;&lt;/html&gt;</description>
+      <pubDate>Sat, 03 Oct 2026 22:21:10 +0000</pubDate>
+      <sparkle:version>25</sparkle:version>
+      <sparkle:shortVersionString>0.14.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/littlbr/pantry-updates/releases/download/v0.14.0/ClaudeUsage-0.14.0.dmg" sparkle:edSignature="oJSJ1IwTMFLhdN7I16gFM9FX22WhsXGB3mtu72bxg8KtS9X+UNCb4eFzYx0ixjHQb4D+pjj2KcT2JA99b6ZWDw==" length="4509807" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.13.6</title>
       <description>&lt;html&gt;&lt;body style="font: -apple-system-body; margin: 0"&gt;&lt;ul style="padding-left: 1.2em"&gt;&lt;li&gt;&lt;strong&gt;Les comptes ne se déconnectent plus au sortir de veille.&lt;/strong&gt; Au réveil, le renouvellement de session partait souvent avant le retour du Wi-Fi, et le moindre échec réseau était pris pour une session expirée : tous les comptes réclamaient alors une reconnexion. Seul un refus explicite d&amp;#x27;Anthropic l&amp;#x27;exige désormais ; le reste se réessaie de lui-même, en gardant les derniers chiffres affichés.&lt;/li&gt;&lt;/ul&gt;&lt;/body&gt;&lt;/html&gt;</description>
       <pubDate>Sun, 27 Sep 2026 22:56:39 +0000</pubDate>
