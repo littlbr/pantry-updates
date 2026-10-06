@@ -6,6 +6,15 @@
     <description>Mises à jour de Pantry</description>
     <language>fr</language>
     <item>
+      <title>Version 0.15.1</title>
+      <description>&lt;html&gt;&lt;body style="font: -apple-system-body; margin: 0"&gt;&lt;ul style="padding-left: 1.2em"&gt;&lt;li&gt;&lt;strong&gt;Les glyphes du terminal s&amp;#x27;animent exactement comme dans Claude Code&lt;/strong&gt; : même séquence, et même dessin que dans Terminal. Une police différente donnait l&amp;#x27;impression d&amp;#x27;une légère rotation en cours d&amp;#x27;animation.&lt;/li&gt;&lt;/ul&gt;&lt;/body&gt;&lt;/html&gt;</description>
+      <pubDate>Tue, 06 Oct 2026 16:45:01 +0000</pubDate>
+      <sparkle:version>27</sparkle:version>
+      <sparkle:shortVersionString>0.15.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/littlbr/pantry-updates/releases/download/v0.15.1/ClaudeUsage-0.15.1.dmg" sparkle:edSignature="pvAg0Cu2nfW9E5gpLmKIistpA8UxzFKamsRACAdt0dh1gSfBLXphgitxh7dQna0Rcd8ZPnxEhED1mVgp86lTDQ==" length="4582797" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.15.0</title>
       <description>&lt;html&gt;&lt;body style="font: -apple-system-body; margin: 0"&gt;&lt;ul style="padding-left: 1.2em"&gt;&lt;li&gt;&lt;strong&gt;Le Mac ne se met plus en veille pendant que Claude Code travaille&lt;/strong&gt;, si vous le demandez : Réglages ▸ Général ▸ Veille. L&amp;#x27;écran peut rester allumé lui aussi. Dès que Claude a fini ou attend une réponse, la veille reprend ses droits ; sur batterie, sous 10 %, aussi.&lt;/li&gt;&lt;li&gt;L&amp;#x27;option ajoute de petits hooks aux réglages de Claude Code (une copie de sauvegarde est faite au préalable), et les retire si vous la désactivez. Les sessions déjà ouvertes doivent être relancées.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;La barre de menu montre quand Claude travaille&lt;/strong&gt; : le logo Claude tourne devant le pourcentage de session — ou les glyphes du terminal, au choix. Avec des anneaux, c&amp;#x27;est un point vert qui pulse en leur centre.&lt;/li&gt;&lt;/ul&gt;&lt;/body&gt;&lt;/html&gt;</description>
       <pubDate>Tue, 06 Oct 2026 16:41:05 +0000</pubDate>
